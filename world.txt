@@ -1,0 +1,3 @@
+이제 진짜 hello world 다
+
+아무것도 아닌데 왜 user.name과 user.email이 비정상적으로 작동했을까?
