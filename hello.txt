@@ -22,3 +22,8 @@ dog cat 브렌치 merge 연습
 현재 상태
 dog에서 hello를 수정해 main에 fast-forward로 merge가 되어있음
 cat에서 hello를 수정 시도하는 중임
+
+----------------------------------
+9월 4일
+실습2
+3way merge 진행중 충돌 난 것을 해결
