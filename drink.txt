@@ -8,4 +8,4 @@ branch merge repeat
 
 생성 브랜치 : coke, water
 
-콜라를 마셔버림
+콜라 마시지 말고, 물이나 마셔
